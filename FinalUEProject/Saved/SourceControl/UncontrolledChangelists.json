@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Ue5Project/UE5ProjectAgain/FinalUEProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"D:/Ue5Project/UE5ProjectAgain/FinalUEProject/Content/NewFolderLevels/LEvel1.umap",
+				"D:/Ue5Project/UE5ProjectAgain/FinalUEProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/Ue5Project/UE5ProjectAgain/FinalUEProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Ue5Project/UE5ProjectAgain/FinalUEProject/Content/NewFolderLevels/LEvel1.umap"
 			]
 		}
 	]
