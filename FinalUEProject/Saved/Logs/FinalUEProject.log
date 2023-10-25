@@ -4144,3 +4144,29 @@ Minimum required: 526.47
 [2023.10.25-07.48.57:843][360]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
 [2023.10.25-07.48.57:964][361]LogConcert: Display: Server DESKTOP-9HKJIAL lost.
 [2023.10.25-07.48.58:013][362]LogConcert: Display: Server DESKTOP-9HKJIAL discovered.
+[2023.10.25-07.55.28:039][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.25-07.55.28:039][519]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewFolderLevels/LEvel1.LEvel1
+[2023.10.25-07.55.28:040][519]Cmd: MAP LOAD FILE="C:/Users/Thanapat Suthampan/Documents/GitHub/UE5ProjectAgain/FinalUEProject/Content/NewFolderLevels/LEvel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-07.55.28:040][519]LightingResults: New page: Lighting Build
+[2023.10.25-07.55.28:040][519]LoadErrors: New page: Loading map: LEvel1.umap
+[2023.10.25-07.55.28:072][519]LogWorld: UWorld::CleanupWorld for LEvel1, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-07.55.28:072][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-07.55.28:072][519]MapCheck: New page: Map Check
+[2023.10.25-07.55.28:072][519]LightingResults: New page: Lighting Build
+[2023.10.25-07.55.28:088][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-07.55.28:091][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.25-07.55.28:093][519]LogAudio: Display: Audio Device (ID: 1) registered with world 'LEvel1'.
+[2023.10.25-07.55.28:093][519]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-07.55.28:093][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-07.55.28:094][519]LogAIModule: Creating AISystem for world LEvel1
+[2023.10.25-07.55.28:100][519]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-07.55.28:118][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.25-07.55.28:121][519]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-07.55.28:121][519]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2023.10.25-07.55.28:121][519]LogFileHelpers: Loading map 'LEvel1' took 0.081
+[2023.10.25-07.55.28:128][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.25-07.55.28:128][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.25-07.55.28:129][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.25-07.55.28:129][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.25-07.55.28:130][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.25-07.55.28:130][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
